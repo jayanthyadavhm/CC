@@ -79,9 +79,5 @@ A full-stack Todo application built with the MERN stack (MongoDB, Express.js, Re
 ## Deployment
 
 The application is deployed on Vercel:
-- Frontend: [Frontend URL]
-- Backend: [Backend URL]
-
-## License
-
-MIT 
+- LIVE : https://cc-x1mw.vercel.app/
+ 
